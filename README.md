@@ -1,4 +1,3 @@
 # Prueba_canal
-Prueba con instrucciones de youtube 1
-
+Prueba con instrucciones de youtube 2
 
